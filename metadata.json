@@ -1,0 +1,8 @@
+{
+  "name": "Cat vs. Dog AI Classifier",
+  "description": "Client-side Cat vs. Dog image classifier powered by MobileNetV2 ONNX and WebAssembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
